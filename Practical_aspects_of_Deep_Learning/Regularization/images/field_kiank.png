@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!-- saved from url=(0111)https://hub.coursera-notebooks.org/user/rowegpdhxyabophiojvfns/view/week5/Regularization/images/field_kiank.png -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>field_kiank.png</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <style type="text/css">
+    html, body, #container {
+      height: 100%;
+    }
+    body, #container {
+      overflow: hidden;
+      margin: 0;
+    }
+    #iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+  <div id="container">
+    <iframe id="iframe" sandbox="allow-scripts" src="./field_kiank_files/field_kiank.html"></iframe>
+  </div>
+
+
+</body></html>
